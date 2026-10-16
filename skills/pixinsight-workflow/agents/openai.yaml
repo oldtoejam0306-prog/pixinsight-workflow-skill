@@ -1,0 +1,4 @@
+interface:
+  display_name: "PixInsight 精修工作流"
+  short_description: "通过 PI MCP 实测调参，覆盖 WBPP 叠加、SHO 拼接与 LRGB 精修"
+  default_prompt: "使用 $pixinsight-workflow 检查我的天文素材，通过已有 PI MCP 按需完成预处理叠加与精修，实测比较参数并交付可续接的成品。"
